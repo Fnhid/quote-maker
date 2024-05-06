@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import githubLogo from '/github-mark-white.svg';
+import githubLogo from '../github-mark-white.svg';
 import './App.css';
 import html2canvas from 'html2canvas';
 import { saveAs } from 'file-saver';

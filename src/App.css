@@ -39,7 +39,7 @@
   padding: 2em;
   background-color: #888;
   white-space: pre-wrap;
-  background-image: url('/src/assets/hiker.jpg');
+  background-image: url('hiker.jpg');
 }
 
 .quote {
